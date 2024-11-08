@@ -1,0 +1,1 @@
+All folders are uploaded without bin and obj folder
